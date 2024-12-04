@@ -35,7 +35,7 @@
 }
 
 #spinner.show {
-    transition: opacity 2s ease-out, visibility 0s linear 2s;
+    transition: opacity 10s ease-out, visibility 0s linear 2s;
     visibility: visible;
     opacity: 1;
 }
